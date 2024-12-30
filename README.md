@@ -7,7 +7,8 @@ The view optionally uses subsampling and tiles to support very large images - a 
 
 #### Guides
 
-* [Releases & downloads](https://github.com/davemorrissey/subsampling-scale-image-view/releases)
+* [Releases & downloads](https://github.com/davemorrissey/subsampling-scale-image-view/releases)![luca-bravo-lWAOc0UuJ-A-unsplash](https://github.com/user-attachments/assets/01772a46-8109-4a61-bd3a-d80474da8f1d)
+
 * [Installation and setup](https://github.com/davemorrissey/subsampling-scale-image-view/wiki/01.-Setup)
 * [Image display notes & limitations](https://github.com/davemorrissey/subsampling-scale-image-view/wiki/02.-Displaying-images)
 * [Using preview images](https://github.com/davemorrissey/subsampling-scale-image-view/wiki/03.-Preview-images)
